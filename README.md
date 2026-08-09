@@ -1,1 +1,1 @@
-# only-ethical
+# educational
