@@ -95,7 +95,10 @@ https://help.evilginx.com
 
 I DO NOT offer support for providing or creating phishlets. I will also NOT help you with creation of your own phishlets. Please look for ready-to-use phishlets, provided by other people.
 
-## note — (it's only for education purpose and 5atyammy is not the owner of this file so if anyone has problem from him then contact him on email - 5atyammy@proton.me. 5atyammy will delete the file respectively. Respect owner — Gretzky
+## note — (it's only for education purpose and 5atyammy is not the owner of this file so if anyone has problem from him then contact him on email - 5atyammy@proton.me. 5atyammy will delete the file respectively. Respected owner — "Gretzky". Remember it "Gretzky" 5atyammy has created this file for his personal educational purposes. 
+
+## Disclaimer from 5atyammy 
+5atyammy has created this file for his personal Ethical purposes so if anyone use this tool in an unethical purpose then respected "Gretzy" and "5atyammy" are not responsible for this... The complete responsibility will be on that person who used this tool in any purpose.
 
 ## License
 
